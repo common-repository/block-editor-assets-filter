@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Block editor assets filter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-23 02:02+0000\n"
+"PO-Revision-Date: 2020-09-23 02:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#. Name of the plugin
+#: block-editor-assets-filter.php:127 block-editor-assets-filter.php:285
+#: block-editor-assets-filter.php:307
+msgid "Block editor assets filter"
+msgstr ""
+
+#: block-editor-assets-filter.php:230
+msgid "Assets"
+msgstr "アセット"
+
+#: block-editor-assets-filter.php:231
+msgid "Default Action Hook"
+msgstr "デフォルトアクション"
+
+#: block-editor-assets-filter.php:234
+msgid "Type"
+msgstr "タイプ"
+
+#: block-editor-assets-filter.php:235
+msgid "File"
+msgstr "ファイル"
+
+#: block-editor-assets-filter.php:236
+msgid "Callback"
+msgstr "コールバック"
+
+#: block-editor-assets-filter.php:237
+msgid "Priority"
+msgstr "優先度"
+
+#: block-editor-assets-filter.php:238
+msgid "Args"
+msgstr "引数"
+
+#: block-editor-assets-filter.php:239
+msgid "Normal"
+msgstr "ノーマル"
+
+#: block-editor-assets-filter.php:240 block-editor-assets-filter.php:354
+msgid "Add"
+msgstr ""
+
+#: block-editor-assets-filter.php:241 block-editor-assets-filter.php:355
+msgid "Remove"
+msgstr ""
+
+#: block-editor-assets-filter.php:259
+msgid "enqueue_block_editor_assets - Action Hook"
+msgstr "enqueue_block_editor_assets - アクションフック"
+
+#: block-editor-assets-filter.php:261
+msgid ""
+"<strong>Normal</strong> - This asset is executed with "
+"`enqueue_block_editor_assets` action hook as usual."
+msgstr ""
+"<strong>ノーマル</strong> - このアセットは通常どおり "
+"`enqueue_block_editor_assets`アクションフックで実行されます"
+
+#: block-editor-assets-filter.php:262
+msgid ""
+"<strong>Add</strong> - This asset is to be filtered. It defaults to `add`."
+msgstr "<strong>Add</strong> - このアセットはフィルター対象に設定され、デフォルトが `add` となります"
+
+#: block-editor-assets-filter.php:263
+msgid ""
+"<strong>Remove</strong> - This asset is to be filtered. It defaults to "
+"`remove`."
+msgstr "<strong>Remove</strong> - このアセットはフィルター対象に設定され、デフォルトが  `remove` となります"
+
+#: block-editor-assets-filter.php:264
+msgid ""
+"* Assets set to `add/remove` can be reconfigured for each post in block "
+"editors edit screen."
+msgstr "※ add / remove に設定したフィルターは、ブロックエディタ編集画面で投稿 / 固定ページ毎に個別に設定を行えます "
+
+#: block-editor-assets-filter.php:270
+msgid "Block editor assets filter Settings\\nClick OK to clear it."
+msgstr "Block editor assets filter 設定\\n OK をクリックするとクリアします"
+
+#. Description of the plugin
+#: block-editor-assets-filter.php:286
+msgid ""
+"Disable custom blocks not used in block editor editing to speed up "
+"JavaScript and prevent conflicts."
+msgstr "使用しないカスタムブロックを無効化することで編集画面のレスポンス改善やコンフリクトの回避を行えます"
+
+#: block-editor-assets-filter.php:293
+msgid "Clear"
+msgstr "クリア"
+
+#: block-editor-assets-filter.php:294
+msgid "Save"
+msgstr "保存"
+
+#: block-editor-assets-filter.php:349
+msgid "Block editor assets filter is not registered"
+msgstr ""
+
+#: block-editor-assets-filter.php:382
+msgid "Assets filter for Single post"
+msgstr "アセットフィルター個別設定"
+
+#: block-editor-assets-filter.php:383
+msgid " Use Default"
+msgstr "デフォルト使用"
+
+#: block-editor-assets-filter.php:384
+msgid "Use single option"
+msgstr "個別設定使用"
+
+#: block-editor-assets-filter.php:437
+msgid ""
+"Block editor assets filter setting has been updated.\\nClick OK to reload "
+"the page."
+msgstr "Block editor assets filter 設定が更新されました.\\n OK をクリックするとリロードします"
+
+#. URI of the plugin
+msgid "https://celtislab.net/en/wp-block-editor-assets-filter"
+msgstr ""
+
+#. Author of the plugin
+msgid "enomoto@celtislab"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://celtislab.net/"
+msgstr ""
